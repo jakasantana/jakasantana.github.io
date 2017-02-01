@@ -5,7 +5,9 @@
     "branch": "master"
   },
   "site": {
-    "title": "Jaka Santana"
+    "title": "Jaka Santana",
+    "logo": "https://dl.dropboxusercontent.com/u/81062211/Avatar/ava001s.jpg",
+    "cover": "https://dl.dropboxusercontent.com/u/81062211/Project/IMG_8851.jpg"
   },
   "socialnetwork": {},
   "theme": {
