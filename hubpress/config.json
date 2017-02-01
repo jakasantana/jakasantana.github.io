@@ -4,7 +4,9 @@
     "repositoryName": "jakasantana.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {},
   "theme": {
-    "name": "casper"
+    "name": "ghostium"
   }
 }
