@@ -46,5 +46,5 @@ Semoga tulisan ini bermanfaat.
 
 Selamat memotret street photography!
 
-Originally Posted on [8megapiksel.com/blog](http://8megapiksel.com/blog/2016/memotret-street-photography-untuk-pekerja-kantoran/)
+Originally Posted on [an example](http://example.com/ "Title")
 
